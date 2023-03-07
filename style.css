@@ -1,0 +1,8 @@
+div{
+    width: 100%;
+    max-width: 200px;
+    border: 5px solid black;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+}
